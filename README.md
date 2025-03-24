@@ -35,6 +35,7 @@ docker-compose --version
 1. **Download the latest Harbor release:**
    ```bash
    wget https://github.com/goharbor/harbor/releases/download/v2.9.0/harbor-offline-installer-v2.9.0.tgz
+   https://github.com/goharbor/harbor/releases
    ```
    *(Replace `v2.9.0` with the latest version available.)*
 
