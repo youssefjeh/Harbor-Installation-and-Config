@@ -1,4 +1,4 @@
-```markdown
+
 # 🐳 Harbor Registry Documentation
 
 Welcome to the **Harbor Registry Docs** repository — a curated collection of technical notes, setup guides, and solutions gathered during real-world deployment and operation of [Harbor](https://goharbor.io/), a cloud-native registry for storing, signing, and scanning container images.
@@ -60,6 +60,5 @@ If you're collaborating on this internally or with a team:
 
 This documentation is intended for internal/informational use. Not officially affiliated with the Harbor project.
 
-```
 
 
