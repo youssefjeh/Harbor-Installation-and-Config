@@ -1,4 +1,4 @@
-**Document: Harbor Installation & Configuration - Errors and Solutions**
+**Harbor Installation & Configuration - Errors and Solutions**
 ### Environment
 
 * Host: Linux (student-node)
@@ -170,5 +170,4 @@ docker push mydomain.wafa.com:84/ysf/node:8
 
 * Set up **Cosign** for image signing.
 * Configure HTTPS for Harbor to avoid warnings and ensure security.
-
 ---
