@@ -5,7 +5,6 @@ Welcome to the **Harbor Registry Docs** repository — a curated collection of t
 
 This repository is maintained for internal use, knowledge sharing, and continuous improvement of DevOps practices.
 
----
 
 ## 📁 Documentation Structure
 
@@ -16,7 +15,7 @@ This repository is maintained for internal use, knowledge sharing, and continuou
 | [`securing-harbor-https.md`](./securing-harbor-https.md) | How to secure Harbor with HTTPS using an internal CA certificate. |
 | *(More coming soon)* | Additional guides like enabling [**Cosign**](https://github.com/sigstore/cosign), configuring Notary, LDAP integration, etc. |
 
----
+
 
 ## ✅ Goals of This Repo
 
@@ -25,7 +24,7 @@ This repository is maintained for internal use, knowledge sharing, and continuou
 - Share DevOps practices and command-line recipes
 - Facilitate collaboration between team members
 
----
+
 
 ## 🧠 How to Use
 
@@ -33,14 +32,14 @@ This repository is maintained for internal use, knowledge sharing, and continuou
 - Apply steps carefully in your environment (customize domains, certs, paths, etc.)
 - Suggest improvements or PRs if used in a team setting
 
----
+
 
 ## 📌 Notes
 
 - This repo **does not** include sensitive information like real domain names, passwords, or production secrets.
 - Replace all placeholder values (e.g. `example.com`, `internal-CA.pfx`) with your real environment-specific data.
 
----
+
 
 ## 📆 What's Next?
 
@@ -48,7 +47,7 @@ This repository is maintained for internal use, knowledge sharing, and continuou
 - [ ] Add Harbor **upgrade steps**
 - [ ] Add reverse proxy configuration (e.g., NGINX or HAProxy)
 
----
+
 
 ## 🤝 Contributions
 
@@ -57,13 +56,10 @@ If you're collaborating on this internally or with a team:
 - Keep the style consistent
 - Respect the placeholder values and avoid leaking real infrastructure info
 
----
-
 ## 📜 License
 
 This documentation is intended for internal/informational use. Not officially affiliated with the Harbor project.
 
----
 ```
 
 
