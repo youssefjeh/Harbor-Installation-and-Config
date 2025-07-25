@@ -11,7 +11,7 @@ This repository is maintained for internal use, knowledge sharing, and continuou
 | File | Description |
 |------|-------------|
 | [`installation-config.md`](./installation-config.md) | Step-by-step guide to install and configure Harbor (with or without Docker Compose). |
-| [`integration-with-Trivy.md`](./integration-wit- Trivy.md) | Common issues encountered during installation and configuration and integration with **Trivy** — with fixes. |
+| [`integration-with-Trivy.md`](./integration-wit-Trivy.md) | Common issues encountered during installation and configuration and integration with **Trivy** — with fixes. |
 | [`securing-harbor-https.md`](./securing-harbor-https.md) | How to secure Harbor with HTTPS using an internal CA certificate. |
 | *(More coming soon)* | Additional guides like enabling [**Cosign**](https://github.com/sigstore/cosign), configuring Notary, LDAP integration, etc. |
 
